@@ -1,0 +1,8 @@
+//Ejercicio 2.9 de la página 54.
+#include <iostream> //Incluimos librería iostream que permite la entrada por teclado y la salida por pantalla.
+using namespace std; //Sentencia obligatoria.
+
+//Inicio del programa.
+int main () {
+	
+} //Fin del programa.
